@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Prescott Dillard",
+      "email": "mybopih@mailinator.com",
+      "gender": "female",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "name": "Phoebe Trujillo",
+      "email": "rihytelyci@mailinator.com",
+      "gender": "female",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "name": "Ciara Goodman",
+      "email": "nyhak@mailinator.com",
+      "gender": "male",
+      "status": "active",
+      "id": 3
+    }
+  ]
+}
